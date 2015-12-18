@@ -1,7 +1,7 @@
 name: Transformation Advisors
 favicon: null
-layout_spectrum: 0.24944836925715208
-typography_spectrum: 0.011565751396119595
+layout_spectrum: 0.48289
+typography_spectrum: 0.90892
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.13921207119710743
+  brandStrength: 0.1875
   lightness: 0.7132278855424374
   saturation: 0.8233215129002929
   rhythmicContrast: 0.69747418561019
