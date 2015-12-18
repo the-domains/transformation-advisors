@@ -1,0 +1,28 @@
+name: Transformation Advisors
+favicon: null
+layout_spectrum: 0.24944836925715208
+typography_spectrum: 0.011565751396119595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.13921207119710743
+  lightness: 0.7132278855424374
+  saturation: 0.8233215129002929
+  rhythmicContrast: 0.69747418561019
+purpose: []
